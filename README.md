@@ -1,3 +1,7 @@
 # WIDS-Project
 AI for Self-Driving Car: Build a Traffic Sign Classifier
+
+Till midterm:
 So far, I have followed the week wise learning plan given by our mentor for this project. I had prior knowledge of python, so first I strengthened those concepts and then learned and practiced data handling using the pandas library. I also learned libraries such as numpy and matplotlib to get a good understanding of code. I then studied the core theoretical concepts of machine learning, linear regression, cost functions and gradient descent. I also explored neural networks in detail, covering both basics and advanced concepts. Currently, I have started learning convolutional neural networks (CNNs), evaluation metrics in machine learning, and their role in image based tasks, which are essential for building a traffic sign classifier. I have completed the initial two assignments and currently working on the final project.
+
+Endterm:
